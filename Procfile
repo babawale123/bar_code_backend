@@ -1,0 +1,1 @@
+web: gunicorn New_event.wsgi
